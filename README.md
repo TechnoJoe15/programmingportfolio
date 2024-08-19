@@ -5,6 +5,7 @@
 * Proficient in Adobe Illustrator
 * Taken Digital Media Classes
 * Taken Coding Class
+
 ## Term 1
 
 ## Term 2
