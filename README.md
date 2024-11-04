@@ -7,15 +7,11 @@
 * Taken Coding Class
 
 ## Term 1
-### Etch-A-Scketch
-Graphics project with keypress drawing controls with the ability to save images.
-![]()
-[]()
-## Term 2
 ### Calculator
 
-Description
+Working Calculator using mathematics.
 
 ![Running App] (https://github.com/TechnoJoe15/programmingportfolio/blob/main/images/CalculatorSS.png?raw=true)
-
 [Source Code] (https://github.com/TechnoJoe15/programmingportfolio/tree/main/src/term%201/Calculator)
+
+## Term 2
