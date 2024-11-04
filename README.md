@@ -7,5 +7,8 @@
 * Taken Coding Class
 
 ## Term 1
-
+### Etch-A-Scketch
+Graphics project with keypress drawing controls with the ability to save images.
+![]()
+[]()
 ## Term 2
