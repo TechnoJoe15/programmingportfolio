@@ -7,7 +7,9 @@
 * Taken Coding Class
 
 ## Term 1
+![Running App]
 
+[Source Code]
 
 ## Term 2
 ### Calculator
