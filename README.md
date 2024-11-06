@@ -7,7 +7,7 @@
 * Taken Coding Class
 
 ## Term 1
-![Running App]
+![Running App](https://github.com/TechnoJoe15/programmingportfolio/blob/main/images/EtchASketchSS.png?raw=true)
 
 [Source Code]
 
