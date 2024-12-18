@@ -17,7 +17,7 @@ Graphical drawing app based on a child's toy.
 ### Grading App
 
 
-![Running App]()
+![Running App](https://github.com/TechnoJoe15/programmingportfolio/blob/main/images/GradingAppSS.png)
 
 [Source Code](https://github.com/TechnoJoe15/programmingportfolio/tree/main/src/term%201/GradingApp)
 
