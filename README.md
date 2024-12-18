@@ -22,7 +22,7 @@ An application to generate letter grades.
 [Source Code](https://github.com/TechnoJoe15/programmingportfolio/tree/main/src/term%201/GradingApp)
 
 ### TempConverter
-Graphical drawing app based on a child's toy.
+Converts temperature from Fahrenheit to Celcius and vice versa.
 
 ![Running App](https://github.com/TechnoJoe15/programmingportfolio/blob/main/images/TempConverterSS.png)
 
