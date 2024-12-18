@@ -21,6 +21,13 @@ An application to generate letter grades.
 
 [Source Code](https://github.com/TechnoJoe15/programmingportfolio/tree/main/src/term%201/GradingApp)
 
+### TempConverter
+Graphical drawing app based on a child's toy.
+
+![Running App](https://github.com/TechnoJoe15/programmingportfolio/blob/main/images/TempConverterSS.png)
+
+[Source Code](https://github.com/TechnoJoe15/programmingportfolio/blob/main/src/term%201/TempConverter.pde)
+
 ## Term 2
 ### Calculator
 
