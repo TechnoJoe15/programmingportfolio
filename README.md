@@ -7,12 +7,19 @@
 * Taken Coding Class
 
 ## Term 1
-
+### Etch A Sketch
 Graphical drawing app based on a child's toy.
 
 ![Running App](https://github.com/TechnoJoe15/programmingportfolio/blob/main/images/EtchASketchSS.png?raw=true)
 
 [Source Code](https://github.com/TechnoJoe15/programmingportfolio/tree/main/src/term%201/EtchASketch)
+
+### Grading App
+
+
+![Running App]()
+
+[Source Code](https://github.com/TechnoJoe15/programmingportfolio/tree/main/src/term%201/GradingApp)
 
 ## Term 2
 ### Calculator
