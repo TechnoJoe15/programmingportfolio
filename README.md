@@ -15,7 +15,7 @@ Graphical drawing app based on a child's toy.
 [Source Code](https://github.com/TechnoJoe15/programmingportfolio/tree/main/src/term%201/EtchASketch)
 
 ### Grading App
-
+An application to generate letter grades.
 
 ![Running App](https://github.com/TechnoJoe15/programmingportfolio/blob/main/images/GradingAppSS.png)
 
