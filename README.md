@@ -30,7 +30,6 @@ Converts temperature from Fahrenheit to Celcius and vice versa.
 
 ## Term 2
 ### Calculator
-
 Object oriuented calculator with graphical interface and keyboard functionality.
 
 ![Running App](https://github.com/TechnoJoe15/programmingportfolio/blob/main/images/CalculatorSS.png?raw=true)
@@ -38,7 +37,6 @@ Object oriuented calculator with graphical interface and keyboard functionality.
 [Source Code](https://github.com/TechnoJoe15/programmingportfolio/tree/main/src/term%201/Calculator)
 
 ### Space Game
-
 A spaced themed collion-based video game.
 
 ![Running App](https://github.com/TechnoJoe15/programmingportfolio/blob/main/images/SpaceGameSS.png)
