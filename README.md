@@ -26,3 +26,5 @@ Object oriuented calculator with graphical interface and keyboard functionality.
 ### Space Game
 
 A spaced themed collion-based video game.
+
+![Running App](https://github.com/TechnoJoe15/programmingportfolio/blob/main/images/SpaceGameSS.png)
