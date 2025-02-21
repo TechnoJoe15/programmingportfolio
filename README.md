@@ -6,7 +6,7 @@
 * Taken Digital Media Classes
 * Taken Coding Class
 
-## Term 1
+## Semester 1
 ### Etch A Sketch
 
 Graphical drawing app based on a child's toy.
@@ -31,7 +31,7 @@ Converts temperature from Fahrenheit to Celcius and vice versa.
 
 [Source Code](https://github.com/TechnoJoe15/programmingportfolio/blob/main/src/term%201/TempConverter.pde)
 
-## Term 2
+
 ### Calculator
 
 Object oriuented calculator with graphical interface and keyboard functionality.
@@ -47,3 +47,6 @@ A spaced themed collion-based video game.
 ![Running App](https://github.com/TechnoJoe15/programmingportfolio/blob/main/images/SpaceGameSS.png)
 
 [Source Code](https://github.com/TechnoJoe15/programmingportfolio/tree/main/src/term%202/SpaceGame)
+
+## Semester 2
+### Shape Tester
