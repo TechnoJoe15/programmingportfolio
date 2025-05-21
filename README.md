@@ -55,3 +55,8 @@ Terminal Run Shape Tester
 
 [Source Code](https://github.com/TechnoJoe15/programmingportfolio/tree/main/src/term%202/ShapeTester/ShapeTester)
 
+### Block Scape
+
+Minecraft look-a-like game
+
+[Source Code](https://github.com/SaltyNickel702/BlockScape/blob/windows/README.md)
